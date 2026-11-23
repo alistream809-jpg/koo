@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iOS MOTION 26</string>
+    <string name="a11y_description">Only used for the \"Lock screen\" tile in Control Center (global lock action). It does not read screen content.</string>
+</resources>

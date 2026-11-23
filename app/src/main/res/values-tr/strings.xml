@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iOS MOTION 26</string>
+    <string name="a11y_description">Yalnızca Denetim Merkezi\'ndeki \"Ekranı kilitle\" kutucuğu için kullanılır (genel kilitleme eylemi). Ekran içeriğini okumaz.</string>
+</resources>
